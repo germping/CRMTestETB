@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66A67E5E-95C4-45A9-B023-0E0279B71309}|..\\BLL\\BLL.csproj|e:\\windows10\\documents\\etb\\codigofuente\\bll\\services\\interactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A67E5E-95C4-45A9-B023-0E0279B71309}|..\\BLL\\BLL.csproj|e:\\windows10\\documents\\etb\\codigofuente\\bll\\services\\interfaces\\iinteractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|e:\\windows10\\documents\\etb\\codigofuente\\crmtestetb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|e:\\windows10\\documents\\etb\\codigofuente\\crmtestetb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14F155F-5475-4606-B423-5380CA108A42}|..\\Data\\Data.csproj|e:\\windows10\\documents\\etb\\codigofuente\\data\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14F155F-5475-4606-B423-5380CA108A42}|..\\Data\\Data.csproj|e:\\windows10\\documents\\etb\\codigofuente\\data\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|e:\\windows10\\documents\\etb\\codigofuente\\crmtestetb\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|e:\\windows10\\documents\\etb\\codigofuente\\crmtestetb\\extensiones\\serviceapplicationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|solutionrelative:extensiones\\serviceapplicationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601A60B0-E459-4092-A832-D4F024365B99}|..\\Models\\Models.csproj|e:\\windows10\\documents\\etb\\codigofuente\\models\\dtos\\interactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|e:\\windows10\\documents\\etb\\codigofuente\\crmtestetb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14F155F-5475-4606-B423-5380CA108A42}|..\\Data\\Data.csproj|e:\\windows10\\documents\\etb\\codigofuente\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14F155F-5475-4606-B423-5380CA108A42}|..\\Data\\Data.csproj|e:\\windows10\\documents\\etb\\codigofuente\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14F155F-5475-4606-B423-5380CA108A42}|..\\Data\\Data.csproj|e:\\windows10\\documents\\etb\\codigofuente\\data\\interfaces\\irepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601A60B0-E459-4092-A832-D4F024365B99}|..\\Models\\Models.csproj|e:\\windows10\\documents\\etb\\codigofuente\\models\\entities\\interactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|e:\\windows10\\documents\\etb\\codigofuente\\crmtestetb\\controllers\\interactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|solutionrelative:controllers\\interactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|e:\\windows10\\documents\\etb\\codigofuente\\crmtestetb\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|solutionrelative:controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|e:\\windows10\\documents\\etb\\codigofuente\\crmtestetb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6E0B40D-E2D9-4CA5-B6FA-FD130BCD4BAB}|API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InteractionService.cs",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\BLL\\Services\\InteractionService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\InteractionService.cs",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\BLL\\Services\\InteractionService.cs",
+              "RelativeToolTip": "..\\BLL\\Services\\InteractionService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:32:33.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Interfaces\\ITokenService.cs",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "..\\Data\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:29:32.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Services\\TokenService.cs",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Services\\TokenService.cs",
+              "RelativeToolTip": "..\\Data\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:26:17.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IInteractionService.cs",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\BLL\\Services\\Interfaces\\IInteractionService.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\Interfaces\\IInteractionService.cs",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\BLL\\Services\\Interfaces\\IInteractionService.cs",
+              "RelativeToolTip": "..\\BLL\\Services\\Interfaces\\IInteractionService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:20:04.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:30:32.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T13:31:53.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T13:53:57.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InteractionDTO.cs",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\DTOs\\InteractionDTO.cs",
+              "RelativeDocumentMoniker": "..\\Models\\DTOs\\InteractionDTO.cs",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\DTOs\\InteractionDTO.cs",
+              "RelativeToolTip": "..\\Models\\DTOs\\InteractionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:25:25.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceApplicationExtension.cs",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\Extensiones\\ServiceApplicationExtension.cs",
+              "RelativeDocumentMoniker": "Extensiones\\ServiceApplicationExtension.cs",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\Extensiones\\ServiceApplicationExtension.cs",
+              "RelativeToolTip": "Extensiones\\ServiceApplicationExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T14:17:53.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Repository\\Repository.cs",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "..\\Data\\Repository\\Repository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:50:33.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:47:57.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Interactions.cs",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Entities\\Interactions.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Entities\\Interactions.cs",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Entities\\Interactions.cs",
+              "RelativeToolTip": "..\\Models\\Entities\\Interactions.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:46:13.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:20:45.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Interfaces\\IRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Interfaces\\IRepository\\IGenericRepository.cs",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Interfaces\\IRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "..\\Data\\Interfaces\\IRepository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:51:47.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InteractionsController.cs",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\Controllers\\InteractionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InteractionsController.cs",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\Controllers\\InteractionsController.cs",
+              "RelativeToolTip": "Controllers\\InteractionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:35:31.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseApiController.cs",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T13:33:57.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T13:32:31.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
