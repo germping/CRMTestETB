@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Models.csproj",
+      "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Models.csproj",
+      "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-      "outputPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\obj\\",
+      "outputPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Windows10\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"

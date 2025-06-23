@@ -1,0 +1,15 @@
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\bin\Debug\net8.0\Utilities.deps.json
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\bin\Debug\net8.0\Utilities.dll
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\bin\Debug\net8.0\Utilities.pdb
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\bin\Debug\net8.0\Models.dll
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\bin\Debug\net8.0\Models.pdb
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\obj\Debug\net8.0\Utilities.csproj.AssemblyReference.cache
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\obj\Debug\net8.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfoInputs.cache
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\obj\Debug\net8.0\Utilities.AssemblyInfo.cs
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\obj\Debug\net8.0\Utilities.csproj.CoreCompileInputs.cache
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\obj\Debug\net8.0\Utilities.csproj.Up2Date
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\obj\Debug\net8.0\Utilities.dll
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\obj\Debug\net8.0\refint\Utilities.dll
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\obj\Debug\net8.0\Utilities.pdb
+E:\Windows10\Documents\ETB\CodigoFuente\Utilities\obj\Debug\net8.0\ref\Utilities.dll

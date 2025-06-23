@@ -107,6 +107,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
       }
     }
   },
@@ -304,11 +314,17 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1"
+      "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
+      "Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -318,11 +334,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Utilities\\Utilities.csproj",
+      "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Utilities\\Utilities.csproj",
       "projectName": "Utilities",
-      "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Utilities\\Utilities.csproj",
+      "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Utilities\\Utilities.csproj",
       "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-      "outputPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Utilities\\obj\\",
+      "outputPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Windows10\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -342,7 +358,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj": {
+              "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

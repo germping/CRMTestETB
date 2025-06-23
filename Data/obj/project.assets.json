@@ -554,16 +554,16 @@
           }
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/9.0.5": {
+      "Microsoft.EntityFrameworkCore.SqlServer/9.0.6": {
         "type": "package",
         "dependencies": {
           "Microsoft.Data.SqlClient": "5.1.6",
-          "Microsoft.EntityFrameworkCore.Relational": "9.0.5",
-          "Microsoft.Extensions.Caching.Memory": "9.0.5",
-          "Microsoft.Extensions.Configuration.Abstractions": "9.0.5",
-          "Microsoft.Extensions.Logging": "9.0.5",
-          "System.Formats.Asn1": "9.0.5",
-          "System.Text.Json": "9.0.5"
+          "Microsoft.EntityFrameworkCore.Relational": "9.0.6",
+          "Microsoft.Extensions.Caching.Memory": "9.0.6",
+          "Microsoft.Extensions.Configuration.Abstractions": "9.0.6",
+          "Microsoft.Extensions.Logging": "9.0.6",
+          "System.Formats.Asn1": "9.0.6",
+          "System.Text.Json": "9.0.6"
         },
         "compile": {
           "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {
@@ -1179,7 +1179,7 @@
           }
         }
       },
-      "System.Formats.Asn1/9.0.5": {
+      "System.Formats.Asn1/9.0.6": {
         "type": "package",
         "compile": {
           "lib/net8.0/_._": {
@@ -2750,10 +2750,10 @@
         "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/9.0.5": {
-      "sha512": "Y4194uyqwMivN2ioKd7GYBFVeeG2kZFFC1ZCmOTvXy3G6Wd05ZVyUyR/3mB+SHCequMPt/DI4f58WMmVaOS6eg==",
+    "Microsoft.EntityFrameworkCore.SqlServer/9.0.6": {
+      "sha512": "hr8vJSL1KXkXdgvNYY5peSygSZkoKQ+r6umXGMLoggBQ9NMbf0jo8p13Hy0biON2IS03ixOl0g4Mgw0hjgTksw==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.sqlserver/9.0.5",
+      "path": "microsoft.entityframeworkcore.sqlserver/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2761,7 +2761,7 @@
         "PACKAGE.md",
         "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll",
         "lib/net8.0/Microsoft.EntityFrameworkCore.SqlServer.xml",
-        "microsoft.entityframeworkcore.sqlserver.9.0.5.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.9.0.6.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
@@ -3696,10 +3696,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "System.Formats.Asn1/9.0.5": {
-      "sha512": "GpMHKhuwUgnp1jKiZQ1slyAQnLp4HG2MgzCJ4u4oZEfi6aBzE3HOx01JFStaiC8dtJqsv0WlrGAWVixv8TEN1w==",
+    "System.Formats.Asn1/9.0.6": {
+      "sha512": "8LbKs3WVqyDSszFZJA9Uxg9z+C6WbPbFTSPm/HjFEsWx49XWs0ueqaAKPWncvFJ8yl4H4C/RTnUMhCKoXkddkg==",
       "type": "package",
-      "path": "system.formats.asn1/9.0.5",
+      "path": "system.formats.asn1/9.0.6",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3719,7 +3719,7 @@
         "lib/net9.0/System.Formats.Asn1.xml",
         "lib/netstandard2.0/System.Formats.Asn1.dll",
         "lib/netstandard2.0/System.Formats.Asn1.xml",
-        "system.formats.asn1.9.0.5.nupkg.sha512",
+        "system.formats.asn1.9.0.6.nupkg.sha512",
         "system.formats.asn1.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -4424,7 +4424,7 @@
     "net8.0": [
       "Microsoft.EntityFrameworkCore >= 9.0.6",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.6",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.5",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.6",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.6",
       "Models >= 1.0.0",
       "System.IdentityModel.Tokens.Jwt >= 8.10.0"
@@ -4437,11 +4437,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Data.csproj",
+      "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Data.csproj",
+      "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-      "outputPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\obj\\",
+      "outputPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Windows10\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4462,8 +4462,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Models.csproj": {
-              "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Models.csproj"
+            "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj": {
+              "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj"
             }
           }
         }
@@ -4496,7 +4496,7 @@
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
-            "version": "[9.0.5, )"
+            "version": "[9.0.6, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",

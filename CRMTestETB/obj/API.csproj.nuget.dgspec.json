@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\API.csproj": {}
+    "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\CRMTestETB\\API.csproj": {}
   },
   "projects": {
-    "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\BLL\\BLL.csproj": {
+    "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\BLL\\BLL.csproj",
+        "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\BLL\\BLL.csproj",
+        "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-        "outputPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\BLL\\obj\\",
+        "outputPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Windows10\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Data.csproj": {
-                "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Data.csproj"
+              "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Data\\Data.csproj": {
+                "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Data\\Data.csproj"
               },
-              "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Models.csproj": {
-                "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Models.csproj"
+              "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj": {
+                "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj"
               },
-              "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Utilities\\Utilities.csproj": {
-                "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Utilities\\Utilities.csproj"
+              "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Utilities\\Utilities.csproj": {
+                "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\API.csproj": {
+    "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\CRMTestETB\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\API.csproj",
+        "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\CRMTestETB\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\API.csproj",
+        "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\CRMTestETB\\API.csproj",
         "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-        "outputPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\CRMTestETB\\obj\\",
+        "outputPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\CRMTestETB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Windows10\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -107,17 +107,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\BLL\\BLL.csproj": {
-                "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\BLL\\BLL.csproj"
+              "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\BLL\\BLL.csproj": {
+                "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\BLL\\BLL.csproj"
               },
-              "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Data.csproj": {
-                "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Data.csproj"
+              "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Data\\Data.csproj": {
+                "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Data\\Data.csproj"
               },
-              "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Models.csproj": {
-                "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Models.csproj"
+              "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj": {
+                "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj"
               },
-              "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Utilities\\Utilities.csproj": {
-                "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Utilities\\Utilities.csproj"
+              "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Utilities\\Utilities.csproj": {
+                "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Utilities\\Utilities.csproj"
               }
             }
           }
@@ -138,6 +138,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -172,14 +176,14 @@
         }
       }
     },
-    "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Data.csproj": {
+    "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Data.csproj",
+        "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\Data.csproj",
+        "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-        "outputPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Data\\obj\\",
+        "outputPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Windows10\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -200,8 +204,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Models.csproj": {
-                "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Models.csproj"
+              "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj": {
+                "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj"
               }
             }
           }
@@ -234,7 +238,7 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[9.0.5, )"
+              "version": "[9.0.6, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -267,14 +271,14 @@
         }
       }
     },
-    "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Models.csproj": {
+    "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Models.csproj",
+        "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\Models.csproj",
+        "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-        "outputPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Models\\obj\\",
+        "outputPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Windows10\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -332,14 +336,14 @@
         }
       }
     },
-    "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Utilities\\Utilities.csproj": {
+    "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Utilities\\Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Utilities\\Utilities.csproj",
+        "projectUniqueName": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Utilities\\Utilities.csproj",
         "projectName": "Utilities",
-        "projectPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Utilities\\Utilities.csproj",
+        "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Utilities\\Utilities.csproj",
         "packagesPath": "C:\\Users\\germa\\.nuget\\packages\\",
-        "outputPath": "E:\\Windows10\\Documents\\ETB\\CodigoFuente\\Utilities\\obj\\",
+        "outputPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Windows10\\Software\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -359,7 +363,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj": {
+                "projectPath": "E:\\Windows10\\Documents\\ETB\\GITHUB\\CRMTestETB\\Models\\Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

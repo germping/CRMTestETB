@@ -1,7 +1,7 @@
 ﻿using Data.Interfaces;
 using Data.Services;
 using Data;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+//using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
@@ -73,14 +73,11 @@ namespace API.Extensiones
 
             });
 
-            services.AddScoped<IUnitWorkSubjectClass, UnitWorkSubjectClass>();
-            services.AddScoped<IUnitWorkRelation, UnitWorkRelation>();
-            services.AddScoped<IUnitWorkUserApp, UnitWorkUserApp>();
-            services.AddAutoMapper(typeof(MappingProfile));
+            services.AddScoped<IUnitWorkInteraction, UnitWorkInteraction>();
+            services.AddAutoMapper(typeof(Mapping));
 
             services.AddScoped<IInteractionService, InteractionService>();
-            services.AddScoped<IInteractionService, ClassSubjectService>();
-            services.AddScoped<IUserAppService, UserAppService>();
+
 
             return services;
         }

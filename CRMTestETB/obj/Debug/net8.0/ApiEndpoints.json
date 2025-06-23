@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "ContainingType": "API.Controllers.InteractionsController",
+    "Method": "Get",
+    "RelativePath": "api/Interactions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.InteractionsController",
+    "Method": "Create",
+    "RelativePath": "api/Interactions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "modelDto",
+        "Type": "Models.DTOs.InteractionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.InteractionsController",
+    "Method": "Delete",
+    "RelativePath": "api/Interactions/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

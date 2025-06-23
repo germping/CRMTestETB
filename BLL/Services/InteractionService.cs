@@ -33,14 +33,11 @@ namespace BLL.Services
             }
             try
             {
-                Interactions interaction = new Interactions
+                Interaction interaction = new Interaction
                 {
                     
                 };
-
-
-
-                await _unitWork.SubjectUser.Add(interaction);
+                await _unitWork.Interaction.Add(interaction);
                 await _unitWork.Save();
                 if (interaction.Id == 0)
                 {
@@ -59,9 +56,9 @@ namespace BLL.Services
         {
             try
             {
-                var relationDb = await _unitWork.GetFirst(e => e.Id == relationRegisterDTO.Id);
+                var interactionDb = await _unitWork.Interaction.GetFirst(e => e.Id == interactionDTO.Id);
                 
-                _unitWork.SubjectUser.Update(relationDb);
+                _unitWork.Interaction.Update(interactionDb);
                 await _unitWork.Save();
             }
             catch (Exception)
@@ -71,16 +68,16 @@ namespace BLL.Services
             }
         }
 
-        public async Task Delete(int idRelation)
+        public async Task Delete(int idInteraction)
         {
             try
             {
-                var TeacherDb = await _unitWork.SubjectUser.GetFirst(e => e.Id == idRelation);
-                if (TeacherDb == null)
+                var InteractionDb = await _unitWork.Interaction.GetFirst(e => e.Id == idInteraction);
+                if (InteractionDb == null)
                 {
-                    throw new TaskCanceledException("Relation not found");
+                    throw new TaskCanceledException("Interaction not found");
                 }
-                _unitWork.SubjectUser.Remove(TeacherDb);
+                _unitWork.Interaction.Remove(InteractionDb);
                 await _unitWork.Save();
 
             }
@@ -90,10 +87,20 @@ namespace BLL.Services
                 throw;
             }
         }
+        public async Task<IEnumerable<InteractionDTO>> GetInteractions()
+        {
+            try
+            {
+                var lista = await _unitWork.Interaction
+                    .GetAll(orderBy: e => e.OrderBy(e => e.Id));
+                return _mapper.Map<IEnumerable<InteractionDTO>>(lista);
+            }
+            catch (Exception)
+            {
 
-
-
-        
+                throw;
+            }
         }
     }
+
 }
